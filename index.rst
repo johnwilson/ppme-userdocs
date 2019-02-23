@@ -10,5 +10,5 @@ Welcome to PPME User Manual!
    :maxdepth: 2
    :caption: Contents:
 
-   about
-   start
+   about.md
+   start.md
