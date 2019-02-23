@@ -10,5 +10,6 @@ Welcome to PPME User Manual!
    :maxdepth: 2
    :caption: Contents:
 
-   about.md
-   start.md
+   about.rst
+   start.rst
+   dashboard.rst
